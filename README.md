@@ -79,10 +79,10 @@ lib/
 └── formregist.dart       # Form registrasi pengguna
 ```
 # 📸 Cuplikan Layar
-![Screenshoot](images/Screenshot-Hasil1.png) <br>
-![Screenshoot](images/Screenshot-Hasil2.png) <br>
-![Screenshoot](images/Screenshot-Hasil3.png) <br>
-![Screenshoot](images/Screenshot-Hasil4.png) <br>
-![Screenshoot](images/Screenshot-Hasil5.png) <br>
-![Screenshoot](images/Screenshot-Hasil6.png) <br>
+![Screenshot](Images/Screenshot-Hasil1.png) <br>
+![Screenshot](Images/Screenshot-Hasil2.png) <br>
+![Screenshot](Images/Screenshot-Hasil3.png) <br>
+![Screenshot](Images/Screenshot-Hasil4.png) <br>
+![Screenshot](Images/Screenshot-Hasil5.png) <br>
+![Screenshot](Images/Screenshot-Hasil6.png) <br>
 
